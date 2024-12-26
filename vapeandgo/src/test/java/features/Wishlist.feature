@@ -4,8 +4,8 @@ Scenario: add a product in to wishlist from home page
 
     Given vapeand linnk
     When click on Accounnttt
-    And Enter signinn email "tabsyst.nandanat@gmail.com"
-    And Enter vapesigninn password "nandhu123"
+    And Enter signinn email "tabsyst.shithin@gmail.com"
+    And Enter vapesigninn password "shithin123"
     And Click vapesigninn
     And click more new products
     And select  a product

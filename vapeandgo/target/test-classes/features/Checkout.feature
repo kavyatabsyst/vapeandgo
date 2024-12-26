@@ -5,14 +5,14 @@ Scenario: Checkout testing
 
     Given vapeand linkkk
     When click onnn AAccount
-    And enter sign-inn email "tabsyst.nandanat@gmail.com"
-    And enter sign-inn password "nandhu123"
+    And enter sign-inn email "tabsyst.shithin@gmail.com"
+    And enter sign-inn password "shithin123"
     And click sign-innn
     And click on cart
     #And select quantityyyyyy
     And click checkout
-    And Enter checkout mail "tabsyst.nandanat@gmail.com"
-    And Enter checkout firstname "nandhna"
+    And Enter checkout mail "tabsyst.shithin@gmail.com"
+    And Enter checkout firstname "shithin"
     And Enter checkout secondname "km"
     And select country
     And enter dob "11/09/1997"

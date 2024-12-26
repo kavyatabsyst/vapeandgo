@@ -4,8 +4,8 @@ Scenario: checking multibuy deals mix&match 3 for $8.99
 
     Given vapeeeand lllink
     When ck ac
-    And Enter sssignin emaaail "tabsyst.nandanat@gmail.com"
-    And Enter vapppesignin pppassword "nandhu123"
+    And Enter sssignin emaaail "tabsyst.shithin@gmail.com"
+    And Enter vapppesignin pppassword "shithin123"
     And Click vapppesigniiin
     And select disposable vapes and select multibuy deals
     And select multibuy product
@@ -21,8 +21,8 @@ Scenario: checking multibuy deals mix&match 2 for $10
 
     Given vapeeeand lllink
     When ck ac
-    And Enter sssignin emaaail "tabsyst.nandanat@gmail.com"
-    And Enter vapppesignin pppassword "nandhu123"
+    And Enter sssignin emaaail "tabsyst.shithin@gmail.com"
+    And Enter vapppesignin pppassword "shithin123"
     And Click vapppesigniiin
     And mousehoverrr eliquids
     And select one product
@@ -37,8 +37,8 @@ Scenario: checking multibuy deals mix&match 2 for $10
 
     Given vapeeeand lllink
     When ck ac
-    And Enter sssignin emaaail "tabsyst.nandanat@gmail.com"
-    And Enter vapppesignin pppassword "nandhu123"
+    And Enter sssignin emaaail "tabsyst.shithin@gmail.com"
+    And Enter vapppesignin pppassword "shithin123"
     And Click vapppesigniiin
     And mousehoverrr nic salts
     And select a producct

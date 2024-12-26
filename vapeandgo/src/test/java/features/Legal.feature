@@ -4,8 +4,8 @@ Scenario: verify the users able to click the legal
 
     Given vapeand lllinkk
     When click on Accccoounttt
-    And Enter signin emmaaail "tabsyst.nandanat@gmail.com"
-    And Enter vapesignin pppasswoord "nandhu123"
+    And Enter signin emmaaail "tabsyst.shithin@gmail.com"
+    And Enter vapesignin pppasswoord "shithin123"
     And Clicck vapesigniiin
     And click about us
     And backkk

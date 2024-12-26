@@ -4,12 +4,12 @@ Scenario:  edit basic details
 
 Given vape a linnk
 When click on Acc
-And Enter sig email "tabsyst.nandanat@gmail.com"
-And Enter vapesig password "nandhu123"
+And Enter sig email "tabsyst.shithin@gmail.com"
+And Enter vapesig password "shithin123"
 And Click vapesig
 And select my account
 And click basic details edit
-And edit firstname "nandhana"
+And edit firstname "shithin"
 And edit second name "kp"
 And edit mobile number "9998988898"
 And click basic save
@@ -19,12 +19,12 @@ Scenario: change password tesing
 
 Given vape a linnk
 When click on Acc
-And Enter sig email "tabsyst.nandanat@gmail.com"
-And Enter vapesig password "nandhu123"
+And Enter sig email "tabsyst.shithin@gmail.com"
+And Enter vapesig password "shithin123"
 And Click vapesig
 And select my account
 And click change password butt
-And Enter currnt pass "nandhu123"
+And Enter currnt pass "shithin123"
 And Enter new pass "12345678"
 And Enter confirm passworddd "12345678"
 And click sub
@@ -35,7 +35,7 @@ Scenario: Add shipping Address
 
 Given vape a linnk
 When click on Acc
-And Enter sig email "tabsyst.nandanat@gmail.com"
+And Enter sig email "tabsyst.shithin@gmail.com"
 And Enter vapesig password "12345678"
 And Click vapesig
 And select my account
@@ -60,7 +60,7 @@ Scenario: shipping Address edit and delete tesing
 
 Given vape a linnk
 When click on Acc
-And Enter sig email "tabsyst.nandanat@gmail.com"
+And Enter sig email "tabsyst.shithin@gmail.com"
 And Enter vapesig password "12345678"
 And Click vapesig
 And select my account
@@ -86,7 +86,7 @@ Scenario: verify the users able to click orders wishlist and points helpcenter i
 
 Given vape a linnk
 When click on Acc
-And Enter sig email "tabsyst.nandanat@gmail.com"
+And Enter sig email "tabsyst.shithin@gmail.com"
 And Enter vapesig password "12345678"
 And Click vapesig
 And select my account
