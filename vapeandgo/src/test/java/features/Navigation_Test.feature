@@ -4,8 +4,8 @@ Scenario: select product using mousehover
 
     Given vapeand lllink
     When click on Accccounttt
-    And Enter signin emaaail "tabsyst.nandanat@gmail.com"
-    And Enter vapesignin pppassword "nandhu123"
+    And Enter signin emaaail "tabsyst.shithin@gmail.com"
+    And Enter vapesignin pppassword "shithin123"
     And Click vapesigniiin
     And mousehover vapekits
     And navigate back
